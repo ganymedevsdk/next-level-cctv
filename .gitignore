@@ -1,0 +1,33 @@
+# node_modules
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI Agents and Tools Configuration (Exclude as requested by the user)
+.gemini/
+.claude/
+.agents/
+.agent/
+_agents/
+_agent/
+skills/
+.skills/
+
+# Build
+dist/
+build/
+out/
+.next/
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
