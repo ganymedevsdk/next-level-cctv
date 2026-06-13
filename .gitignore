@@ -27,3 +27,7 @@ out/
 
 # AI Prompt (Excluded as requested)
 prompt_para_claude.md
+
+# Additional AI agent configs
+CLAUDE.md
+skills-lock.json
